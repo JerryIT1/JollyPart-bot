@@ -13,7 +13,7 @@ const av = {
     y: 170
 }
 
-const background = "https://i.imgur.com/zvWTUVu.jpg"
+const background = "https://i.redd.it/38aeu51hq3d61.jpg"
 
 const generate= async (member) => {
     let username = member.user.username
